@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{60382DE9-FECA-4ED5-A53E-173432D44B7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerRegistration.Infrastructure/CustomerDbContext.cs">
+    <Files>
+      <File FileName="CustomerRegistration.Infrastructure/CustomerDbContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomerRegistration" expanded="True">
+            <Node name="CustomerRegistration" expanded="True" />
+            <Node name="CustomerRegistration.Core" expanded="True">
+              <Node name="DataBaseModels" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+            <Node name="CustomerRegistration.Infrastructure" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomerRegistration PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
